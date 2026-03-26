@@ -16,6 +16,8 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 
 ---
+## Block Diagram
+<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/9369fc41-66fb-4431-8ca1-4dca5358201f" />
 
 ### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
